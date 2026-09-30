@@ -1,0 +1,23 @@
+.titulo{
+    color: #002aff;
+    size: 50px;
+    text-align: center;
+}
+
+.body1{
+        text-align: left;
+}
+
+.body2{
+        text-align: center;
+}
+
+.body3{
+        text-align: right;
+}
+
+.boton{
+    color: rgb(255, 0, 0);
+    font-weight: 10px;
+    font-size: 100px;
+}
